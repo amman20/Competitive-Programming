@@ -1,0 +1,3 @@
+InputReader
+Main$TaskA
+Main
